@@ -15,6 +15,9 @@ function ternaryCheckCity(city){
   return message;
 } ternaryCheckCity(Pittsburgh);
 
-function switchOnCharmFromTip(){
-  
+function switchOnCharmFromTip(tip){
+  let tip;
+  switch (tip)
+    case 'generous':
+    tip = ""
 }
