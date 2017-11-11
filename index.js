@@ -13,4 +13,4 @@ function ternaryCheckCity(city){
   let message;
   city === "NYC"? message = "Ok, sounds good." : message = "No go.";
   return message;
-} ternaryCheckCity(Pittsburgh)
+} ternaryCheckCity(Pittsburgh);
