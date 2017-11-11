@@ -24,6 +24,6 @@ function switchOnCharmFromTip(tip){
       return ("Thank you.")
       break;
     case '${anthing else}':
-      return ("Bye.");
+      return ('Bye.');
   }
 }
